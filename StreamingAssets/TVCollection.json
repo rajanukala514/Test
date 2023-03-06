@@ -1,0 +1,34 @@
+{
+  "TVList": [
+    {
+      "SKUID": "XR-85Z9J",
+      "Name": "Sony Bravia XR 215 cm",
+      "ProductIconPath": "ProductFeatures/TV/XR-85Z9J/MainIcon",
+      "BuyURL":"https://shopatsc.com/collections/8k-hdr-1/products/xr-85z9j-sony-bravia-xr-215-cm-85-inches-8k-ultra-hd-smart-full-array-led-google-tv-with-dolby-vision-atmos-alexa-compatibility-black",
+      "DetailsURL":"https://www.sony.co.in/electronics/televisions/z9j-series",
+      "ProductDescription": "XR-85Z9J - Sony Bravia XR 215 cm (85) 8K Ultra HD Smart Full Array LED Google TV with Dolby Vision Atmos & Alexa Compatibility (Black).",
+      "Features": [
+        {
+          "FeatureName": "XR Motion Clarity",
+          "IconPath": "ProductFeatures/TV/XR-85Z9J/XR_Motion_Clarity",
+          "CanEnableDisable":false,
+          "Description": "On some screens, sports and fast action scenes can seem to go by in a blur. Our latest LED XR Motion Clarity™ technology keeps everything smooth, bright and clear. Each 'blink' is individually controlled and its duration optimised, while brightness is boosted when needed, so you won't miss a thing."
+        },
+        {
+          "FeatureName": "Acoustic Auto Calibration",
+          "IconPath": "ProductFeatures/TV/XR-85Z9J/Acoustic_Auto_Calibration",
+          "CanEnableDisable":true,
+          "Description": "No matter where you're sitting, this TV detects your position and optimises sound so you'll enjoy the same sound quality as if you're sitting right in front of the TV. Sound can change depending on your room environment."
+          },
+          {
+            "FeatureName": "XR Surround",
+            "IconPath": "ProductFeatures/TV/XR-85Z9J/XR_Surround",
+            "CanEnableDisable":false,
+            "Description": "With BRAVIA XR, everything you watch gets the true surround sound treatment. XR Surround creates surround sound from the sides and vertically so you can experience 3D audio without the need for in-ceiling or up-firing speakers."
+          }
+          
+        
+      ]
+    }
+  ]
+}

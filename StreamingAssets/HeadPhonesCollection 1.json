@@ -1,0 +1,78 @@
+{
+  "HeadPhonesList": [
+    {
+      "SKUID": "WH-1000XM4",
+      "Name": "Sony WH-1000XM4",
+      "Features": [
+        {
+          "FeatureName": "Advanced noise cancellation",
+          "IconPath": "ProductFeatures/HeadPhones/WH-1000XM4/Advanced_noise_cancellation",
+          "Description": "Whether you’re flying long-haul or relaxing in a café, the WH-1000XM4 headphones deliver our advanced noise cancelling performance, keeping out even more high- and mid-frequency sounds."
+        },
+        {
+          "FeatureName": "Sound you can believe in",
+          "IconPath": "ProductFeatures/HeadPhones/WH-1000XM4/Sound_you_can_believe_in",
+          "Description": "A built-in analogue amplifier integrated in the HD Noise Cancelling Processor QN1 realises an unmatched signal-to-noise ratio for low distortion and exceptional sound quality for portable devices. Powerful 40-mm drivers with Liquid Crystal Polymer (LCP) diaphragms make the headphones perfect for handling heavy beats and can reproduce a full range of frequencies up to 40 kHz."
+          },
+        {
+          "FeatureName": "The technology behind the noise cancellation",
+          "IconPath": "ProductFeatures/HeadPhones/WH-1000XM4/The_technology_behind_the_noise_cancellation",
+          "Description": "Dual noise sensor technology, featuring two microphones on each earcup, captures ambient noise and passes the data to the HD Noise-Cancelling Processor QN1. Using a new algorithm, the HD Noise-Cancelling Processor QN1 then applies noise-cancelling processing in real time to a range of acoustic environments. Working together with a new Bluetooth Audio SoC (System on Chip), it senses and adjusts to music and noise signals, as well as acoustic characteristics between the driver unit and ears, at over 700 times per second."
+        },
+        {
+          "FeatureName": "Optimising noise cancelling",
+          "IconPath": "ProductFeatures/HeadPhones/WH-1000XM4/Optimising_noise_cancelling",
+          "Description": "The WH-1000XM4 headphones incorporate two technologies to maximise noise-cancelling performance. Unique Atmospheric Pressure Optimising delivers optimal sound at high altitude while Personal Noise Cancellation Optimiser analyses unique sonic characteristics caused by head size, glasses, and hair, then tailors sound to you."
+        },
+        {
+          "FeatureName": "Ambient Sound Control",
+          "IconPath": "ProductFeatures/HeadPhones/WH-1000XM4/Ambient_Sound_Control",
+          "Description": "Adjust ambient sound with the Sony | Headphones Connect app to cancel noise while still allowing essential sounds, like transport announcements, through when you're listening on the move."
+        },
+        {
+          "FeatureName": "Wireless freedom, premium sound",
+          "IconPath": "ProductFeatures/HeadPhones/WH-1000XM4/Wireless_freedom_premium_sound",
+          "Description": "LDAC transmits approximately three times more data (at the maximum transfer rate of 990 kbps) than conventional BLUETOOTH® audio, allowing you to enjoy High-Resolution Audio content in exceptional quality, as close as possible to that of a dedicated wired connection."
+        },
+        
+        {
+          "FeatureName": "Real-time restoration of all your compressed files ",
+          "IconPath": "ProductFeatures/HeadPhones/WH-1000XM4/Realtime_restorationofallyourcompressedfiles",
+          "Description": "Using Edge-AI (Artificial Intelligence) co-developed with Sony Music Entertainment, DSEE Extreme™ (Digital Sound Enhancement Engine) upscales compressed digital music files in real time. Dynamically recognising instrumentation, musical genres, and individual elements of each song, such as vocals or interludes, it restores the high-range sound lost in compression for a richer, more complete listening experience"
+          },
+
+        {
+          "FeatureName": "For everyday convenience, just Speak-to-Chat",
+          "IconPath": "ProductFeatures/HeadPhones/WH-1000XM4/For_everyday_convenience_justSpeak",
+          "Description": "As soon as you speak to someone, Speak-to-Chat automatically stops the music and lets in ambient sound so you can conduct a conversation—handy if you want to keep your headphones on, or your hands are full. Based on Precise Voice Pickup Technology, this smart feature uses five microphones built into your headphones and advanced audio signal processing to recognise and react to your voice. And once your chat is over, your music starts playing again automatically."
+          },
+        {
+          "FeatureName": "Adaptive Sound Control automatically adjusts to your location and behaviour",
+          "IconPath": "ProductFeatures/HeadPhones/WH-1000XM4/Adaptive_Sound_Control",
+          "Description": "AAdaptive Sound Control is a smart function that can learn to recognise locations you frequently visit, such as your workplace or favourite café, and tailor sound for the ideal listening experience. In addition, it automatically detects what you're up to—for example, walking, waiting or travelling—then adjusts ambient sound settings to suit the situation. "
+          },
+        {
+          "FeatureName": "Headphones that react to you",
+          "IconPath": "ProductFeatures/HeadPhones/WH-1000XM4/Headphones_that_react_to_you",
+          "Description": "A proximity sensor in your headphones can detect whether you're wearing them or not, then adapt playback accordingly to help save battery power. Take off your headphones and the music pauses automatically. Put the headphones back on and the music automatically resumes."        
+        },
+
+        {
+          "FeatureName": "Quick Attention",
+          "IconPath": "ProductFeatures/HeadPhones/WH-1000XM4/Quick_Attention",
+          "Description": "Need to quickly hear voices or sounds around you? Just place your hand over the housing to instantly turn your music volume down and let ambient sound in."          
+        },
+        {
+          "FeatureName": "Wear all day in total comfort",
+          "IconPath": "ProductFeatures/HeadPhones/WH-1000XM4/Wear_all_day_in_total_comfort",
+          "Description": "WH-1000XM4 headphones blend sophisticated styling with exceptional comfort. Super-soft, pressure-relieving earpads in foamed urethane evenly distribute pressure and increase ear/pad contact for a stable fit. And with a lighter-weight design, you'll barely notice you're wearing them."          
+        },
+        {
+          "FeatureName": "Be smarter with Voice Assistant",
+          "IconPath": "ProductFeatures/HeadPhones/WH-1000XM4/Be_smarter_with_Voice_Assistant",
+          "Description": "Get hands-free help. Just say OK Google or Alexa to activate your preferred voice assistant.. Enjoy entertainment, connect with friends, get information, listen to music and notifications, set reminders and more. You can even control your headphones' features like noise cancellation with your voice."        
+        }
+      ]
+    }
+  ]
+}

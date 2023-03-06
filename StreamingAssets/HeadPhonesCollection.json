@@ -1,0 +1,58 @@
+{
+  "HeadPhonesList": [
+    {
+      "SKUID": "WH-1000XM4",
+      "Name": "Sony WH-1000XM4",
+      "ProductIconPath": "ProductFeatures/HeadPhones/WH-1000XM4/MainImage",
+      "BuyURL":"https://shopatsc.com/collections/headphones/products/sony-wh-1000xm4-industry-leading-wireless-noise-cancelling-headphones-bluetooth-headset-with-mic-for-phone-calls-30-hours-battery-life-quick-charge-touch-control-alexa-voice-control-black",
+      "DetailsURL":"https://www.sony.co.in/electronics/headband-headphones/wh-1000xm4",
+      "ProductDescription": "Discover how the WH-1000XM4 headphones blend our most advanced noise cancelling with exceptional sound quality and a range of smart features for an unrivalled listening experience.",
+      "Features": [
+        {
+          "FeatureName": "Advanced noise cancellation",
+          "IconPath": "ProductFeatures/HeadPhones/WH-1000XM4/Advanced_noise_cancellation",
+          "Description": "Whether you’re flying long-haul or relaxing in a café, the WH-1000XM4 headphones deliver our advanced noise cancelling performance, keeping out even more high- and mid-frequency sounds."
+        },
+        {
+          "FeatureName": "Sound you can believe in",
+          "IconPath": "ProductFeatures/HeadPhones/WH-1000XM4/Sound_you_can_believe_in",
+          "Description": "A built-in analogue amplifier integrated in the HD Noise Cancelling Processor QN1 realises an unmatched signal-to-noise ratio for low distortion and exceptional sound quality for portable devices. Powerful 40-mm drivers with Liquid Crystal Polymer (LCP) diaphragms make the headphones perfect for handling heavy beats and can reproduce a full range of frequencies up to 40 kHz."
+          },
+          {
+            "FeatureName": "360 Reality Audio",
+            "IconPath": "ProductFeatures/HeadPhones/WH-1000XM4/360Reality",
+            "Description": "Surround youself in music."
+          }
+
+        
+      ]
+    },
+    {
+      "SKUID": "WH-1000XM4_W",
+      "Name": "Sony WH-1000XM4",
+      "ProductIconPath": "ProductFeatures/HeadPhones/WH-1000XM4/MainImage_W",
+      "BuyURL":"https://shopatsc.com/collections/headphones/products/sony-wh-1000xm4-industry-leading-wireless-noise-cancelling-headphones-bluetooth-headset-with-mic-for-phone-calls-30-hours-battery-life-quick-charge-touch-control-alexa-voice-control-black",
+      "DetailsURL":"https://www.sony.co.in/electronics/headband-headphones/wh-1000xm4",
+      "ProductDescription": "Discover how the WH-1000XM4 headphones blend our most advanced noise cancelling with exceptional sound quality and a range of smart features for an unrivalled listening experience.",
+      "Features": [
+        {
+          "FeatureName": "Advanced noise cancellation",
+          "IconPath": "ProductFeatures/HeadPhones/WH-1000XM4/Advanced_noise_cancellation",
+          "Description": "Whether you’re flying long-haul or relaxing in a café, the WH-1000XM4 headphones deliver our advanced noise cancelling performance, keeping out even more high- and mid-frequency sounds."
+        },
+        {
+          "FeatureName": "Sound you can believe in",
+          "IconPath": "ProductFeatures/HeadPhones/WH-1000XM4/Sound_you_can_believe_in",
+          "Description": "A built-in analogue amplifier integrated in the HD Noise Cancelling Processor QN1 realises an unmatched signal-to-noise ratio for low distortion and exceptional sound quality for portable devices. Powerful 40-mm drivers with Liquid Crystal Polymer (LCP) diaphragms make the headphones perfect for handling heavy beats and can reproduce a full range of frequencies up to 40 kHz."
+          },
+          {
+            "FeatureName": "360 Reality Audio",
+            "IconPath": "ProductFeatures/HeadPhones/WH-1000XM4/360Reality",
+            "Description": "Surround youself in music."
+          }
+          
+        
+      ]
+    }
+  ]
+}
